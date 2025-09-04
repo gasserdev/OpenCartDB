@@ -1,0 +1,242 @@
+[
+    {
+        "id":1,
+        "title":"Apple Macbook M2 Pro",
+        "price":1232,
+        "description":"MacBook Pro with M2 Pro chip, 16GB RAM, 512GB SSD, Liquid Retina XDR display, up to 19-core GPU.",
+        "image":"https://images.pexels.com/photos/249538/pexels-photo-249538.jpeg?_gl=1*qdx1c9*_ga*NTYxODAyMDE0LjE3NTEzNjk1MDU.*_ga_8JE65Q40S6*czE3NTY5MTA2MjQkbzIkZzEkdDE3NTY5MTA2NzYkajgkbDAkaDA.",
+        "category": "laptops"
+    },
+    {
+        "id": 2,
+        "title": "Dell XPS 15",
+        "price": 1499,
+        "description": "Dell XPS 15 with Intel Core i7 13th Gen, 16GB RAM, 512GB SSD, NVIDIA RTX 4050, 15.6-inch OLED display.",
+        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/touch-black/notebook-xps-15-9530-t-black-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=677&qlt=100,1&resMode=sharp2&size=677,402&chrss=full",
+        "category": "laptops"
+    },
+    {
+        "id": 3,
+        "title": "HP Spectre x360",
+        "price": 1399,
+        "description": "HP Spectre x360 2-in-1 laptop, Intel Core i7, 16GB RAM, 1TB SSD, 13.5-inch OLED touchscreen.",
+        "image": "https://hp.widen.net/content/nfcejq5qzl/png/nfcejq5qzl.png?w=800&h=600&dpi=72&color=ffffff00",
+        "category": "laptops"
+    },
+    {
+        "id": 4,
+        "title": "Lenovo ThinkPad X1 Carbon Gen 11",
+        "price": 1699,
+        "description": "Lenovo ThinkPad X1 Carbon Gen 11, Intel Core i7, 16GB RAM, 512GB SSD, 14-inch 2.8K OLED display.",
+        "image": "https://p1-ofp.static.pub/fes/cms/2023/02/10/m2x90er7aq4issqfzku0vuli4086vv761445.png",
+        "category": "laptops"
+    },
+    {
+        "id": 5,
+        "title": "Asus ROG Zephyrus G14",
+        "price": 1599,
+        "description": "Asus ROG Zephyrus G14 gaming laptop, AMD Ryzen 9, 16GB RAM, 1TB SSD, NVIDIA RTX 4070, 14-inch QHD display.",
+        "image": "https://m.media-amazon.com/images/I/41l-ct7+lIL._AC_SX425_.jpg",
+        "category": "laptops"
+    },
+    {
+        "id": 6,
+        "title": "Iphone 16e",
+        "price": 967,
+        "description": "Apple iPhone 16e (128 GB) - White with Face ID | Tax Paid | 2 Years Official Warranty",
+        "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16e-finish-unselect-gallery-2-202502?wid=5120&hei=2880&fmt=webp&qlt=90&.v=bGxrMXRYSllVRTZGbi82ZklwWis2MnJ2UHBBV3orM3VMYVQ4cFJXZmQxVkhnK3VlbHJjTUlYeUt0RTRtRTZzRHF2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUlpwdXpoUCs0UkRITW9SK01iZ0NrVlo&traceId=1",
+        "category": "phones"
+    },
+    {
+        "id": 7,
+        "title": "Iphone 16 Pro",
+        "price": 1476,
+        "description": "Apple iPhone 16 Pro (256 GB) - Desert Titanium with Face ID | Tax Paid | 2 Years Official Warranty",
+        "image": "https://m.media-amazon.com/images/I/61rObEraFTL._AC_SX569_.jpg",
+        "category": "phones"
+    },
+    {
+        "id": 8,
+        "title": "POCO X7 Pro",
+        "price": 411,
+        "description": "POCO X7 Pro Yellow 12GB RAM 512GB 5G Mobile | Mediatek Dimensity 8400-Ultra | 1.5K 120Hz AMOLED curved display | 50MP main camera with OIS | IP68 | 5110mAh battery with 90w Hypercharge",
+        "image": "https://m.media-amazon.com/images/I/61IqkWOuD5L._AC_SY450_.jpg",
+        "category": "phones"
+    },
+    {
+        "id": 9,
+        "title": "Men's Plain T-Shirt Gray",
+        "price": 6,
+        "description": "ISTANBUL MODEL Men's Plain T-Shirt, Round Neck Short Sleeve t-shirt for Men, Half sleeve Tee, Pack of 1, Classic, 95% Cotton & 5% lycra (spandex)",
+        "image": "https://m.media-amazon.com/images/I/519hvHIC-aL._AC_UL320_.jpg",
+        "category": "clothing"
+    },
+    {
+        "id": 10,
+        "title": "Adidas Shoes White",
+        "price": 34,
+        "description":"adidas unisex-adult Vl Court Base Shoes",
+        "image": "https://m.media-amazon.com/images/I/614yHp-DW5L._AC_SY575_.jpg",
+        "category": "shoes"
+    },
+    {
+        "id": 11,
+        "title": "Adidas training backpack",
+        "price": 29,
+        "description":"adidas youth prime bpk red,wonder clay,warm clay gym & training backpack for kids boys and girls size ns",
+        "image": "https://m.media-amazon.com/images/I/713pXxed7bL._AC_SX522_.jpg",
+        "category": "backpacks"
+    },
+    {
+        "id": 12,
+        "title": "Adidas training backpack",
+        "price": 29,
+        "description":"adidas youth prime bpk red,wonder clay,warm clay gym & training backpack for kids boys and girls size ns",
+        "image": "https://m.media-amazon.com/images/I/713pXxed7bL._AC_SX522_.jpg",
+        "category": "backpacks"
+    },
+    {
+        "id": 13,
+        "title": "LEGO NINJAG",
+        "price": 10,
+        "description":"LEGO NINJAGO Kai’s Motorcycle Speed Race Set - 2 Ninja Motorbike Toys with Spinning Wheels plus 2 Minifigures with Weapon Accessories - Gift for 6+ Year Old Boys & Dragons Rising Fans - 71838",
+        "image": "https://m.media-amazon.com/images/I/811LxA25TgL._AC_SX569_.jpg",
+        "category": "toys"
+    },
+    {
+        "id": 14,
+        "title": "Playstation 5 Wireless Controller",
+        "price": 13,
+        "description":"Anti-Slip Silicone Skin Protective Cover Case for Playstation 5 DualSense Wireless Controller - Black",
+        "image": "https://m.media-amazon.com/images/I/61GEyQdLUrS._AC_SX679_.jpg",
+        "category": "video games"
+    },
+    {
+        "id": 15,
+        "title": "Playstation 5 Wireless Controller",
+        "price": 13,
+        "description":"Anti-Slip Silicone Skin Protective Cover Case for Playstation 5 DualSense Wireless Controller - Black",
+        "image": "https://m.media-amazon.com/images/I/61GEyQdLUrS._AC_SX679_.jpg",
+        "category": "video games"
+    },
+    {
+        "id": 16,
+        "title": "High-quality Printed Silicone Case",
+        "price": 2,
+        "description":"High-quality Printed Silicone Case Anti-Shockproof With Camera Protection Compatible with Iphone 13 Pro Max (Design 4)",
+        "image": "https://m.media-amazon.com/images/I/71DQK9JjS1L._AC_SY606_.jpg",
+        "category": "mobile accessories"
+    },
+    {
+        "id": 17,
+        "title": "Oraimo OSW-805 Watch 5",
+        "price": 19,
+        "description":"Oraimo OSW-805 Watch 5 Smart Watch with 2.01 inch HD Panda Glass Screen and 1ATM Water Resistance-Black",
+        "image": "https://m.media-amazon.com/images/I/51QfvXQQQNL._AC_SX569_.jpg",
+        "category": "watches"
+    },
+    {
+        "id": 18,
+        "title": "Tefal VG4130EE fan",
+        "price": 43,
+        "description":"Tefal VG4130EE Silence Force, Stand Fan, Silence Technology, Remote Control, 8 Hours Timer, 6 Blades, Adjustable Height, Black",
+        "image": "https://m.media-amazon.com/images/I/61uW6za+ckL._AC_SL1500_.jpg",
+        "category": "home appliances"
+    },
+    {
+        "id": 19,
+        "title": "LG LED Smart TV 43 inch LM6370 Series",
+        "price": 267,
+        "description":"LG LED Smart TV 43 inch LM6370 Series Full HD HDR Smart LED TV - 43LM6370PVA",
+        "image": "https://m.media-amazon.com/images/I/71Oy86VIHbL._AC_SY450_.jpg",
+        "category": "tvs"
+    },
+    {
+        "id": 20,
+        "title": "Stereo Headphone",
+        "price": 9,
+        "description":"Etrain Wired Stereo Foldable Headphone with MIC, 1.5M Black",
+        "image": "https://m.media-amazon.com/images/I/51anZUUWPZL._AC_SX466_.jpg",
+        "category": "headphones"
+    },
+    {
+        "id": 21,
+        "title": "Wireless Earbuds VI R50i",
+        "price": 19,
+        "description":"Anker Soundcore VI R50i True Wireless Earbuds with 10mm Drivers for Powerful Bass, Bluetooth 5.3, Long Playtime (30 Hours), Water Resistant, 2 Clear Mics, and 22 Preset EQs,18 Months Warranty",
+        "image": "https://m.media-amazon.com/images/I/51Sc5zOZGzL._AC_SX466_.jpg",
+        "category": "headphones"
+    },
+    {
+        "id": 22,
+        "title": "Nokia G21",
+        "price": 19,
+        "description":"Nokia G21 Dual SIM 4GB Ram+128GB ROM (6.5 Inches) (4G) - (Dusk)",
+        "image": "https://m.media-amazon.com/images/I/71AQ3qEZ-VL._AC_SX679_.jpg",
+        "category": "phones"
+    },
+    {
+        "id": 23,
+        "title": "Samsung Galaxy M55 5G",
+        "price": 246,
+        "description":"Samsung Galaxy M55 5G, Android Smartphone, Dual SIM Mobile Phone, 8GB RAM, 128GB Storage, Light Green 1 Year Warranty/Local Version",
+        "image": "https://m.media-amazon.com/images/I/71a3QoZJqPL._AC_SX569_.jpg",
+        "category": "phones"
+    },
+    {
+        "id": 24,
+        "title": "Joyroom JR-FC2 Pro",
+        "price": 20,
+        "description":"Joyroom JR-FC2 Pro Smart Watch Answer/Make Calls - Space Grey",
+        "image": "https://m.media-amazon.com/images/I/61XN5nWIgYL._AC_SX569_.jpg",
+        "category": "watches"
+    },
+    {
+        "id": 25,
+        "title": "Dell Vostro 3520",
+        "price": 329,
+        "description":"Dell Vostro 3520 Laptop - Intel Core i3-1215U 6-Cores, 8GB RAM, 512GB SSD, Intel UHD Graphics, 15.6 FHD (1920 x 1080) 120Hz 250 nits Anti-Glare - Carbon Black",
+        "image": "https://m.media-amazon.com/images/I/71JPy7gSTyL._AC_SX569_.jpg",
+        "category": "laptops"
+    },
+    {
+        "id": 26,
+        "title": "adidas BP Backpack",
+        "price": 329,
+        "description":"adidas MEN & WOMEN CLSC BARS BP Backpack",
+        "image": "https://m.media-amazon.com/images/I/91jgkhklh5L._AC_SX522_.jpg",
+        "category": "backpacks"
+    },
+    {
+        "id": 27,
+        "title": "ISTANBUL MODEL Men's V-Neck Short Sleeve T-Shirt",
+        "price": 4,
+        "description":"ISTANBUL MODEL Men's V-Neck Short Sleeve T-Shirt, Pack of 1, Plain t-shirt, 95% Cotton and 5% Spandex (Lycra), Classic Fit",
+        "image": "https://m.media-amazon.com/images/I/51gWUSzM09L._AC_SY500_.jpg",
+        "category": "clothing"
+    },
+    {
+        "id": 28,
+        "title": "Samsung Galaxy A26 5G",
+        "price": 267,
+        "description":"Samsung Galaxy A26 5G, Android Smartphone, 256GB Storage, 8GB RAM, Black, 50MP Camera, Large Display, Long Battery Life 1 Year Warranty/Local Version",
+        "image": "https://m.media-amazon.com/images/I/41g6jR8WT0L._AC_SX466_.jpg",
+        "category": "phones"
+    },
+    {
+        "id": 29,
+        "title": "Samsung 27-Inch G55C",
+        "price": 164,
+        "description":"Samsung 27-Inch G55C Odyssey QHD 2K Curved Gaming Monitor, HRDR 10, VA Panel, 1ms MPRT, 165hz with Game Mode, Supports AMD FreeSync, HDMI and DisplayPort, 3 Years Local Warranty",
+        "image": "https://m.media-amazon.com/images/I/71gaBO+mp6L._AC_SX569_.jpg",
+        "category": "tvs"
+    },
+    {
+        "id": 30,
+        "title": "SHARP Microwave Grill 25 Liter",
+        "price": 123,
+        "description":"SHARP Microwave Grill 25 Liter - 900 Watt - 6 Menus Black R-750MR(K)",
+        "image": "https://m.media-amazon.com/images/I/51Z+XIztQZL._AC_SX679_.jpg",
+        "category": "home appliances"
+    }
+]
