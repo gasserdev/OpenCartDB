@@ -89,14 +89,6 @@
     },
     {
         "id": 12,
-        "title": "Adidas training backpack",
-        "price": 29,
-        "description":"adidas youth prime bpk red,wonder clay,warm clay gym & training backpack for kids boys and girls size ns",
-        "image": "https://m.media-amazon.com/images/I/713pXxed7bL._AC_SX522_.jpg",
-        "category": "backpacks"
-    },
-    {
-        "id": 13,
         "title": "LEGO NINJAG",
         "price": 10,
         "description":"LEGO NINJAGO Kai’s Motorcycle Speed Race Set - 2 Ninja Motorbike Toys with Spinning Wheels plus 2 Minifigures with Weapon Accessories - Gift for 6+ Year Old Boys & Dragons Rising Fans - 71838",
@@ -104,23 +96,16 @@
         "category": "toys"
     },
     {
+        "id": 13,
+        "title": "Playstation 5 Wireless Controller",
+        "price": 13,
+        "description":"Anti-Slip Silicone Skin Protective Cover Case for Playstation 5 DualSense Wireless Controller - Black",
+        "image": "https://m.media-amazon.com/images/I/61GEyQdLUrS._AC_SX679_.jpg",
+        "category": "video games"
+    },
+
+    {
         "id": 14,
-        "title": "Playstation 5 Wireless Controller",
-        "price": 13,
-        "description":"Anti-Slip Silicone Skin Protective Cover Case for Playstation 5 DualSense Wireless Controller - Black",
-        "image": "https://m.media-amazon.com/images/I/61GEyQdLUrS._AC_SX679_.jpg",
-        "category": "video games"
-    },
-    {
-        "id": 15,
-        "title": "Playstation 5 Wireless Controller",
-        "price": 13,
-        "description":"Anti-Slip Silicone Skin Protective Cover Case for Playstation 5 DualSense Wireless Controller - Black",
-        "image": "https://m.media-amazon.com/images/I/61GEyQdLUrS._AC_SX679_.jpg",
-        "category": "video games"
-    },
-    {
-        "id": 16,
         "title": "High-quality Printed Silicone Case",
         "price": 2,
         "description":"High-quality Printed Silicone Case Anti-Shockproof With Camera Protection Compatible with Iphone 13 Pro Max (Design 4)",
@@ -128,7 +113,7 @@
         "category": "mobile accessories"
     },
     {
-        "id": 17,
+        "id": 15,
         "title": "Oraimo OSW-805 Watch 5",
         "price": 19,
         "description":"Oraimo OSW-805 Watch 5 Smart Watch with 2.01 inch HD Panda Glass Screen and 1ATM Water Resistance-Black",
@@ -136,7 +121,7 @@
         "category": "watches"
     },
     {
-        "id": 18,
+        "id": 16,
         "title": "Tefal VG4130EE fan",
         "price": 43,
         "description":"Tefal VG4130EE Silence Force, Stand Fan, Silence Technology, Remote Control, 8 Hours Timer, 6 Blades, Adjustable Height, Black",
@@ -144,7 +129,7 @@
         "category": "home appliances"
     },
     {
-        "id": 19,
+        "id": 17,
         "title": "LG LED Smart TV 43 inch LM6370 Series",
         "price": 267,
         "description":"LG LED Smart TV 43 inch LM6370 Series Full HD HDR Smart LED TV - 43LM6370PVA",
@@ -152,7 +137,7 @@
         "category": "tvs"
     },
     {
-        "id": 20,
+        "id": 18,
         "title": "Stereo Headphone",
         "price": 9,
         "description":"Etrain Wired Stereo Foldable Headphone with MIC, 1.5M Black",
@@ -160,7 +145,7 @@
         "category": "headphones"
     },
     {
-        "id": 21,
+        "id": 19,
         "title": "Wireless Earbuds VI R50i",
         "price": 19,
         "description":"Anker Soundcore VI R50i True Wireless Earbuds with 10mm Drivers for Powerful Bass, Bluetooth 5.3, Long Playtime (30 Hours), Water Resistant, 2 Clear Mics, and 22 Preset EQs,18 Months Warranty",
@@ -168,7 +153,7 @@
         "category": "headphones"
     },
     {
-        "id": 22,
+        "id": 20,
         "title": "Nokia G21",
         "price": 19,
         "description":"Nokia G21 Dual SIM 4GB Ram+128GB ROM (6.5 Inches) (4G) - (Dusk)",
@@ -176,7 +161,7 @@
         "category": "phones"
     },
     {
-        "id": 23,
+        "id": 21,
         "title": "Samsung Galaxy M55 5G",
         "price": 246,
         "description":"Samsung Galaxy M55 5G, Android Smartphone, Dual SIM Mobile Phone, 8GB RAM, 128GB Storage, Light Green 1 Year Warranty/Local Version",
@@ -184,7 +169,7 @@
         "category": "phones"
     },
     {
-        "id": 24,
+        "id": 22,
         "title": "Joyroom JR-FC2 Pro",
         "price": 20,
         "description":"Joyroom JR-FC2 Pro Smart Watch Answer/Make Calls - Space Grey",
@@ -192,7 +177,7 @@
         "category": "watches"
     },
     {
-        "id": 25,
+        "id": 23,
         "title": "Dell Vostro 3520",
         "price": 329,
         "description":"Dell Vostro 3520 Laptop - Intel Core i3-1215U 6-Cores, 8GB RAM, 512GB SSD, Intel UHD Graphics, 15.6 FHD (1920 x 1080) 120Hz 250 nits Anti-Glare - Carbon Black",
@@ -200,7 +185,7 @@
         "category": "laptops"
     },
     {
-        "id": 26,
+        "id": 24,
         "title": "adidas BP Backpack",
         "price": 329,
         "description":"adidas MEN & WOMEN CLSC BARS BP Backpack",
@@ -208,7 +193,7 @@
         "category": "backpacks"
     },
     {
-        "id": 27,
+        "id": 25,
         "title": "ISTANBUL MODEL Men's V-Neck Short Sleeve T-Shirt",
         "price": 4,
         "description":"ISTANBUL MODEL Men's V-Neck Short Sleeve T-Shirt, Pack of 1, Plain t-shirt, 95% Cotton and 5% Spandex (Lycra), Classic Fit",
@@ -216,7 +201,7 @@
         "category": "clothing"
     },
     {
-        "id": 28,
+        "id": 26,
         "title": "Samsung Galaxy A26 5G",
         "price": 267,
         "description":"Samsung Galaxy A26 5G, Android Smartphone, 256GB Storage, 8GB RAM, Black, 50MP Camera, Large Display, Long Battery Life 1 Year Warranty/Local Version",
@@ -224,7 +209,7 @@
         "category": "phones"
     },
     {
-        "id": 29,
+        "id": 27,
         "title": "Samsung 27-Inch G55C",
         "price": 164,
         "description":"Samsung 27-Inch G55C Odyssey QHD 2K Curved Gaming Monitor, HRDR 10, VA Panel, 1ms MPRT, 165hz with Game Mode, Supports AMD FreeSync, HDMI and DisplayPort, 3 Years Local Warranty",
@@ -232,7 +217,7 @@
         "category": "tvs"
     },
     {
-        "id": 30,
+        "id": 28,
         "title": "SHARP Microwave Grill 25 Liter",
         "price": 123,
         "description":"SHARP Microwave Grill 25 Liter - 900 Watt - 6 Menus Black R-750MR(K)",
